@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: ecommstorecontainer
-      image: ashokit/ecomm_store
+      image: imabhishekcr/ecomm_store
       ports:
       - containerPort: 80
 ---
